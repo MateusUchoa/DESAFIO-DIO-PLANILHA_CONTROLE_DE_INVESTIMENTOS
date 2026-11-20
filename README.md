@@ -1,4 +1,4 @@
-# Simulador de Investimentos em Fundos Imobiliários (FIIs)
+# Simulador de Investimentos em Fundos Imobiliários (FIIs) e Ações
 
 Este projeto é uma ferramenta desenvolvida em Excel para simular investimentos em Fundos Imobiliários. A planilha permite calcular o crescimento do patrimônio ao longo do tempo e projetar os dividendos mensais com base no perfil do investidor.
 
